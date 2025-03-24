@@ -20,7 +20,7 @@ Estou cursando <b>Ciência da Computação</b> pela Pitágoras, buscando oportun
   <table>
     <tr>
       <td><b>🎓 Cientista da Computação</b></td>
-      <td><b>🖥 Apoio Técnico</b></td>
+      <td><b>🖥 E commecer</b></td>
     </tr>
     <tr>
       <td><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnBkc2l1NjZsZWZqczRkdHdneG9mdDRnNGo4bHMwcmdkdWQzcWM4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" width="300px" height="170px"></td>
