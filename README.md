@@ -14,8 +14,7 @@
 
 Estou cursando <b>Ciência da Computação</b> pela Pitágoras, buscando oportunidades para iniciar minha carreira na área de tecnologia. Possuo uma base em Programação HTML e CSS, Banco de Dados MySQL, Javascript, Python, Montagem e Manutenção de Computadores. Estou cursando atualmente Dev Full Stack IA pela Infinity School . Estou sempre em busca de aprender mais e desenvolver habilidades práticas em programação e tecnologia. 
 
-<br> Atualmente atuo como Apoio Técnico na Rio Minas, oferecendo suporte remoto a usuários de microinformática dentro da estrutura da CEMIG. <br>
-
+<br> Atualmente, sou estagiária de e-commerce na empresa Impress, onde estou envolvida em diversas atividades relacionadas ao setor. <br>
 
 <div align="center">
   <table>
@@ -25,7 +24,7 @@ Estou cursando <b>Ciência da Computação</b> pela Pitágoras, buscando oportun
     </tr>
     <tr>
       <td><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnBkc2l1NjZsZWZqczRkdHdneG9mdDRnNGo4bHMwcmdkdWQzcWM4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" width="300px" height="170px"></td>
-      <td><img src="https://www.liveagent.com.br/wp/urlslab-download/e37856f1f359182c156124169c21edfc/15-gifs-every-customer-support-agent-can-relate-to2.gif" width="300px" height="170px"> </td>
+      <td><img src="https://yamidia.com.br/wp-content/uploads/2021/04/COLORIU-O-BOTAO_.png" width="300px" height="170px"> </td>
     </tr>
   </table>
 </div>
