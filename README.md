@@ -24,7 +24,7 @@ Estou cursando <b>Ciência da Computação</b> pela Pitágoras, buscando oportun
     </tr>
     <tr>
       <td><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnBkc2l1NjZsZWZqczRkdHdneG9mdDRnNGo4bHMwcmdkdWQzcWM4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" width="300px" height="170px"></td>
-      <td><img src="[https://yamidia.com.br/wp-content/uploads/2021/04/COLORIU-O-BOTAO_.png](https://media.tenor.com/Hg4jUD7qrYMAAAAM/hack-the-planet-hacker-cat.gif)" width="300px" height="170px"> </td>
+      <td><img src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" width="300px" height="170px"> </td>
     </tr>
   </table>
 </div>
