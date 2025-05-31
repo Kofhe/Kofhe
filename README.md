@@ -14,17 +14,17 @@
 
 Estou cursando <b>Ciência da Computação</b> pela Pitágoras, buscando oportunidades para iniciar minha carreira na área de tecnologia. Possuo uma base em Programação HTML e CSS, Banco de Dados MySQL, Javascript, Python, Montagem e Manutenção de Computadores. Estou cursando atualmente Dev Full Stack IA pela Infinity School . Estou sempre em busca de aprender mais e desenvolver habilidades práticas em programação e tecnologia. 
 
-<br> Atualmente, sou estagiária de e-commerce na empresa Impress, onde estou envolvida em diversas atividades relacionadas ao setor. <br>
+<br> Atualmente, sou estagiária de sistemas no Mater Dei, onde estou envolvida em diversas atividades relacionadas ao setor. <br>
 
 <div align="center">
   <table>
     <tr>
       <td><b>🎓 Cientista da Computação</b></td>
-      <td><b>🖥 E commecer</b></td>
+      <td><b>🖥 Estagiária de Sistemas </b></td>
     </tr>
     <tr>
       <td><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnBkc2l1NjZsZWZqczRkdHdneG9mdDRnNGo4bHMwcmdkdWQzcWM4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" width="300px" height="170px"></td>
-      <td><img src="https://yamidia.com.br/wp-content/uploads/2021/04/COLORIU-O-BOTAO_.png" width="300px" height="170px"> </td>
+      <td><img src="[https://yamidia.com.br/wp-content/uploads/2021/04/COLORIU-O-BOTAO_.png](https://media.tenor.com/Hg4jUD7qrYMAAAAM/hack-the-planet-hacker-cat.gif)" width="300px" height="170px"> </td>
     </tr>
   </table>
 </div>
