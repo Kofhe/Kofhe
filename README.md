@@ -12,7 +12,7 @@
 
 ## ⭐️ Sobre mim
 
-Estou cursando <b>Ciência da Computação</b> pela Pitágoras, buscando oportunidades para iniciar minha carreira na área de tecnologia. Possuo uma base em Programação HTML e CSS, Banco de Dados MySQL, Javascript, Python, Montagem e Manutenção de Computadores. Estou cursando atualmente Dev Full Stack IA pela Infinity School . Estou sempre em busca de aprender mais e desenvolver habilidades práticas em programação e tecnologia. 
+Estou cursando <b>Ciência da Computação</b> pela Pitágoras, buscando oportunidades para iniciar minha carreira na área de tecnologia. Possuo uma base em Programação HTML e CSS, Banco de Dados MySQL, Javascript,  Montagem e Manutenção de Computadores. Estou cursando atualmente Dev Full Stack IA pela Infinity School aprendendo Python. Estou sempre em busca de aprender mais e desenvolver habilidades práticas em programação e tecnologia. 
 
 <br> Atualmente, sou estagiária de sistemas no Mater Dei, onde estou envolvida em diversas atividades relacionadas ao setor. <br>
 
