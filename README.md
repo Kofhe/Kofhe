@@ -33,6 +33,14 @@ Estou cursando <b>Ciência da Computação</b> pela Pitágoras, buscando oportun
    
 </div><br>
 
+<div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-plain.svg" width="40" alt="aarch64" />
+    
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" alt="python" />
+    
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" alt="react" />
+</div>
+
 
 <!-- 
 theme=ocean_dark 
