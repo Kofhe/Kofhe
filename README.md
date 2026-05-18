@@ -26,10 +26,10 @@
 # ⭐ Sobre mim
 
 🎓 Estudante de Ciência da Computação pela Pitágoras  
-📊 Focada em Análise de Dados, Python e Power BI  
-💼 Atualmente, atuo como estagiária de sistemas no Mater Dei, participando de projetos e atividades da área de tecnologia. 
+📊 Entre sistemas, dashboards e muitos estudos, estou construindo minha jornada na área de tecnologia e dados.  
+💻 Atualmente trabalho como estagiária de sistemas no Mater Dei, onde venho ganhando experiência prática com tecnologia.
 
-💻 Entrando no mundo dos dados aos poucos e aprendendo mais sobre:
+## 📚 Entrando no mundo dos dados aos poucos e aprendendo mais sobre:
 
 - Python
 - Pandas
