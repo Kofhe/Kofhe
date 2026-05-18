@@ -27,7 +27,7 @@
 
 🎓 Estudante de Ciência da Computação pela Pitágoras  
 📊 Focada em Análise de Dados, Python e Power BI  
-💻 Atualmente estagiária de sistemas no Mater Dei  
+💻 💼 Atualmente, atuo como estagiária de sistemas no Mater Dei, participando de projetos e atividades da área de tecnologia. 
 
 📊 Entrando no mundo dos dados aos poucos e aprendendo mais sobre:
 
@@ -37,8 +37,6 @@
 - SQL
 
 <br>
-
-✨ No momento, atuo como estagiária de sistemas no Mater Dei, participando de diferentes atividades relacionadas à área de tecnologia.
 
 <div align="center"> 
   <table> 
