@@ -25,7 +25,7 @@
 
 # ⭐ Sobre mim
 
-🎓 Estudante de Ciência da Computação pela Pitágoras  
+🎓 Ciência da Computação pela Pitágoras  
 📊 Entre sistemas, dashboards e muitos estudos, estou construindo minha jornada na área de tecnologia e dados.  
 💻 Atualmente trabalho como estagiária de sistemas no Mater Dei, onde venho ganhando experiência prática com tecnologia.
 
