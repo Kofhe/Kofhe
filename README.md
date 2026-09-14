@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="./assets/andreia-github.png" alt="Andreia - Tecnologia e Dados" width="900px">
+<img src="./imagem_eu.png" alt="Andreia - Tecnologia e Dados" width="300px">
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Borel\&size=30\&pause=1000\&color=C94D65\&center=true\&vCenter=true\&repeat=true\&random=false\&width=600\&lines=Bem-vindos!;Eu+sou+a+Andreia+%F0%9F%96%A4;Sistemas+%7C+Dados+%7C+Power+BI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Borel&size=30&pause=1000&color=C94D65&center=true&vCenter=true&repeat=true&random=false&width=600&lines=Bem-vindos!;Eu+sou+a+Andreia+%F0%9F%96%A4;Sistemas+%7C+Dados+%7C+Power+BI)](https://git.io/typing-svg)
 
 </div>
-
-<img src="https://media1.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif" alt="Gato GitHub">
 
 <!-- Links -->
 
@@ -36,14 +34,18 @@
 
 # 🖤 Sobre mim
 
-🎓 **Ciência da Computação** pela Pitágoras/Unopar Anhanguera
-💻 Experiência prática com **Sistemas & Sustentação**
-📊 Interesse e projetos voltados para **Dados, BI e análise de informações**
-🏥 Atualmente atuo na área de tecnologia do **Mater Dei**, trabalhando com sistemas, atendimento de demandas e apoio a projetos.
+🎓 **Ciência da Computação** pela Pitágoras/Unopar Anhanguera  
+💻 Experiência prática com **Sistemas & Sustentação**  
+📊 Interesse e projetos voltados para **Dados, BI e análise de informações**  
+🏆 **Estagiária Destaque 2025 — Rede Mater Dei de Saúde**
 
-No dia a dia, tenho contato com **SQL Oracle, sistemas MV, documentação, acompanhamento de demandas e suporte às necessidades dos usuários**.
+Atualmente atuo na área de tecnologia do **Mater Dei**, na equipe de Sistemas, trabalhando com sistemas, atendimento de demandas, documentação e apoio a projetos de tecnologia.
+
+No dia a dia, tenho contato com **SQL Oracle, sistemas MV, acompanhamento de demandas e suporte às necessidades dos usuários**.
 
 Também venho desenvolvendo projetos próprios para fortalecer meus conhecimentos em **Power BI, SQL, Python e análise de dados**.
+
+🔗 [Confira o reconhecimento como Estagiária Destaque 2025](https://www.linkedin.com/feed/update/urn:li:activity:7401778203670876160/)
 
 <br>
 
@@ -68,6 +70,18 @@ Também venho desenvolvendo projetos próprios para fortalecer meus conhecimento
 
 ---
 
+# 🏆 Reconhecimento
+
+### ⭐ Estagiária Destaque 2025
+
+Reconhecimento recebido durante evento da **Rede Mater Dei de Saúde**, destacando minha atuação como estagiária e minha participação na equipe de Sistemas.
+
+> “É uma honra por ter sido reconhecida como Estagiária Destaque 2025...”  
+
+🔗 [Ver publicação no LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7401778203670876160/)
+
+---
+
 # 📂 Projetos em destaque
 
 ### 📊 Dashboard de Acompanhamento da Migração de Sistema
@@ -76,7 +90,7 @@ Projeto desenvolvido em **Power BI** para acompanhamento de uma migração de si
 
 **Tecnologias:** Power BI • DAX • Excel
 
-🔗 [Acessar projeto](https://github.com/Kofhe/-Dashboard-de-Acompanhamento-da-Migração-de-Sistema)
+🔗 [Acessar projeto](https://github.com/Kofhe/-Dashboard-de-Acompanhamento-da-Migra-o-de-Sistema)
 
 ---
 
@@ -181,40 +195,21 @@ Também venho praticando técnicas de análise por meio de projetos próprios e 
 
 ---
 
-# 📚 Atualmente estudando
-
-📊 **Power BI** — dashboards, DAX e Power Query
-🗃️ **SQL** — consultas e análise de dados
-🐍 **Python & Pandas** — análise e tratamento de dados
-📈 **BI & Dados** — construção e evolução de projetos para portfólio
-
----
-
 # 📈 GitHub Stats
 
 <div align="center">
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kofhe\&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kofhe\&hide=Html\&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kofhe\&theme=tokyonight) |
-| :--------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kofhe&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kofhe&hide=Html&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kofhe&theme=tokyonight) |
+| :---: | :---: | :---: |
 
 </div>
 
 <div align="center">
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kofhe\&theme=tokyonight) | ![](https://github-readme-streak-stats.herokuapp.com/?user=kofhe\&theme=tokyonight\&hide_border=true\&date_format=M%20j%5B%2C%20Y%5D\&background=1A1B27\&stroke=35AFA3\&ring=BF91F3\&fire=BF91F3\&currStreakNum=BF91F3\&sideNums=BF91F3\&currStreakLabel=BF91F3\&sideLabels=BF91F3\&dates=35AFA3) |
-| :------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kofhe&theme=tokyonight) | ![](https://github-readme-streak-stats.herokuapp.com/?user=kofhe&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=35AFA3&ring=BF91F3&fire=BF91F3&currStreakNum=BF91F3&sideNums=BF91F3&currStreakLabel=BF91F3&sideLabels=BF91F3&dates=35AFA3) |
+| :---: | :---: |
 
 </div>
-
----
-
-# 🐱 Um pouco mais sobre mim
-
-💜 Tecnologia, dados e criatividade
-🐱 Gatos fazem parte do meu código-fonte
-🎀 Fã de uma estética cute + dark
-🎮 Gamer nas horas vagas
-📚 Sempre aprendendo alguma coisa nova
 
 ---
 
